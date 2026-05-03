@@ -20,6 +20,14 @@ The notebooks span the full lifecycle of training neural networks — from under
 ```
 DL_assignment_Nitish/
 ├── README.md
+├── scripts/                                            # Cell-by-cell video narration scripts
+│   ├── README.md
+│   ├── 01_activation_functions_script.md
+│   ├── 02_cnn_fundamentals_script.md
+│   ├── 03_hyperparameter_tuning_script.md
+│   ├── 04_classification_metrics_script.md
+│   ├── 05_modern_cnn_architectures_script.md
+│   └── 06_optimizers_script.md
 ├── final_activation_functions_tutorial.ipynb
 ├── final_cnn_fundamentals_tutorial.ipynb
 ├── final_hyperparameter_tuning_tutorial.ipynb
@@ -27,6 +35,10 @@ DL_assignment_Nitish/
 ├── final_modern_cnn_architectures_tutorial.ipynb
 └── final_optimizers_deep_learning_tutorial.ipynb
 ```
+
+### Video narration scripts
+
+Each notebook has a corresponding **read-aloud script** in the [`scripts/`](./scripts) folder that walks through every cell (markdown and code) in natural, conversational English. Use them to record the walkthrough videos — see [`scripts/README.md`](./scripts/README.md) for the recommended workflow.
 
 ---
 
@@ -51,7 +63,7 @@ Covers the role of activation functions in breaking linearity, explores ReLU, Si
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nitishsjsucs/DL_assignment_Nitish/blob/main/final_activation_functions_tutorial.ipynb)
 &nbsp;&nbsp;
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Walkthrough-red?logo=youtube)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Walkthrough-red?logo=youtube)](https://youtu.be/XKSpDUJZZAI)
 
 ---
 
@@ -71,7 +83,7 @@ Builds CNNs from the ground up, starting with the intuition behind convolution a
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nitishsjsucs/DL_assignment_Nitish/blob/main/final_cnn_fundamentals_tutorial.ipynb)
 &nbsp;&nbsp;
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Walkthrough-red?logo=youtube)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Walkthrough-red?logo=youtube)](https://youtu.be/vDkG7mNnBys)
 
 ---
 
@@ -93,7 +105,7 @@ Explores the full hyperparameter search landscape — learning rate, batch size,
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nitishsjsucs/DL_assignment_Nitish/blob/main/final_hyperparameter_tuning_tutorial.ipynb)
 &nbsp;&nbsp;
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Walkthrough-red?logo=youtube)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Walkthrough-red?logo=youtube)](https://youtu.be/_erDnu4c3NU)
 
 ---
 
@@ -115,7 +127,7 @@ Goes beyond accuracy to cover the full suite of classification evaluation metric
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nitishsjsucs/DL_assignment_Nitish/blob/main/final_important_classification_metrics_tutorial.ipynb)
 &nbsp;&nbsp;
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Walkthrough-red?logo=youtube)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Walkthrough-red?logo=youtube)](https://youtu.be/0q-t56IQf5s)
 
 ---
 
@@ -137,7 +149,7 @@ Builds on CNN fundamentals to explore the landmark architectures that defined mo
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nitishsjsucs/DL_assignment_Nitish/blob/main/final_modern_cnn_architectures_tutorial.ipynb)
 &nbsp;&nbsp;
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Walkthrough-red?logo=youtube)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Walkthrough-red?logo=youtube)](https://youtu.be/wueKycCnbaA)
 
 ---
 
@@ -161,7 +173,7 @@ Takes a deep dive into the optimization algorithms that train neural networks. V
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nitishsjsucs/DL_assignment_Nitish/blob/main/final_optimizers_deep_learning_tutorial.ipynb)
 &nbsp;&nbsp;
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Walkthrough-red?logo=youtube)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Walkthrough-red?logo=youtube)](https://youtu.be/ToFSmFmGqwg)
 
 ---
 
@@ -169,12 +181,12 @@ Takes a deep dive into the optimization algorithms that train neural networks. V
 
 | # | Notebook | YouTube Walkthrough |
 |---|----------|-------------------|
-| 1 | Activation Functions | [▶ Watch](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-| 2 | CNN Fundamentals | [▶ Watch](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-| 3 | Hyperparameter Tuning | [▶ Watch](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-| 4 | Classification Metrics | [▶ Watch](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-| 5 | Modern CNN Architectures | [▶ Watch](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-| 6 | Optimizers for Deep Learning | [▶ Watch](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+| 1 | Activation Functions | [▶ Watch](https://youtu.be/XKSpDUJZZAI) |
+| 2 | CNN Fundamentals | [▶ Watch](https://youtu.be/vDkG7mNnBys) |
+| 3 | Hyperparameter Tuning | [▶ Watch](https://youtu.be/_erDnu4c3NU) |
+| 4 | Classification Metrics | [▶ Watch](https://youtu.be/0q-t56IQf5s) |
+| 5 | Modern CNN Architectures | [▶ Watch](https://youtu.be/wueKycCnbaA) |
+| 6 | Optimizers for Deep Learning | [▶ Watch](https://youtu.be/ToFSmFmGqwg) |
 
 ---
 
